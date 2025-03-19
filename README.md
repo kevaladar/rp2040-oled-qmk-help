@@ -3,7 +3,7 @@ hi, i'm trying to make rp2040 works with the 0.91 oled, the 128x32 one,
 wired SDA, SCL to GP12 and GP13 (the doc said should be GP0 and GP1)—but these still I2C0 pins, right?
 VCC to 3.3V, GND to GND
 compiling firmware ran with no issue , but the screen still blank
-![Uploading oled pin.png…]()
+![oled pin](https://github.com/user-attachments/assets/1dbffebc-66fa-4651-bcba-9a0f028d5c25)
 
 ## Hardware
 - **Board**: RP2040 Zero
